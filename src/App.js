@@ -1,18 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
-import { BrowserRouter, Route ,Switch} from 'react-router-dom';
+import { Route, Link, BrowserRouter as Router, Switch } from 'react-router-dom';
 import './App.scss';
 import Home from "./components/home/home";
 import Header from "./components/Header";
+import NewTicket from "./components/Ticket/NewTicket";
 
 function App() {
   return (
-      <BrowserRouter>
+      <Router>
           <div className="App">
               <Header/>
-              <Route path='/' component={Home} />
+              <Switch>
+                  <Route exact path='/' component={Home} />
+                  <Route path='/ticket/new' component={NewTicket} />
+              </Switch>
           </div>
-      </BrowserRouter>
+      </Router>
   );
 }
 
