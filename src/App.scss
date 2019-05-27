@@ -5,3 +5,5 @@ $font-family-base: $font-family-sans-serif !default;
 $text-color: #06203A !default;
 $brand-danger: #FF456B !default;
 @import "~bootstrap/scss/bootstrap";
+
+.ticket__img{ height: 350px; z-index: -1; position: absolute; margin: -65px}
