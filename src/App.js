@@ -1,7 +1,7 @@
 import React from 'react';
-import { Route, Link, BrowserRouter as Router, Switch } from 'react-router-dom';
+import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 import './App.scss';
-import Home from "./components/home/home";
+import Home from './pages/Home';
 import Header from "./components/Header";
 import NewTicket from "./components/Ticket/NewTicket";
 
