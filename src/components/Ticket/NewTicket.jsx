@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import TicketPerson from '../../assets/images/ticket.svg'
+import TicketPerson from '../../assets/images/ticket.svg';
+import { FiArrowRight } from 'react-icons/fi';
+
 
 class NewTicket extends Component {
     render() {
@@ -29,7 +31,7 @@ class NewTicket extends Component {
                                 <textarea className="form-control bg-light" id="description" rows="5"></textarea>
                             </div>
                             <div className="form-group">
-                                <button type="button" className="btn btn-danger rounded-0 w-100 text-left">Submit</button>
+                                <button type="button" className="btn btn-danger rounded-0 w-100 p-2 px-3 text-left">Submit <span className="float-right"><FiArrowRight /></span></button>
                             </div>
                         </form>
                     </div>
