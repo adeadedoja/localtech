@@ -1,10 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+$text-color: #06203A !default;
+$danger: #FF456B !default;
+$primary: #06203A;
 $font-size-base: 0.75rem !default;
 $font-family-sans-serif:  "Poppins", Helvetica, Arial, sans-serif !default;
 $font-family-base: $font-family-sans-serif !default;
 $text-color: #06203A !default;
 $brand-danger: #FF456B !default;
+$btn-border-radius-base: 0px;
 @import "~bootstrap/scss/bootstrap";
 
-
 .ticket__img{ height: 350px; z-index: -1; position: absolute; margin: -65px}
+
+.btn {
+  padding: 0.5rem 2rem!important;
+  border-radius: 0;
+}
