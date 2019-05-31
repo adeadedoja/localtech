@@ -8,7 +8,7 @@ class NewTicket extends Component {
         return (
             <div className="container">
                 <div className="row my-5 justify-content-around">
-                    <div className="col-md-4 my-4">
+                    <div className="col-md-4 mb-5">
                         <p className="mb-0 text-muted">Hi Damola,</p>
                         <h1 className="font-weight-bold">Submit a ticket</h1>
                         <div>
@@ -16,7 +16,7 @@ class NewTicket extends Component {
                             <img src={TicketImage} alt="ticket" className="ticket__img" />
                         </div>
                     </div>
-                    <div className="col-md-4">
+                    <div className="col-md-4 mt-4">
                         <NewTicketForm />
                     </div>
                 </div>

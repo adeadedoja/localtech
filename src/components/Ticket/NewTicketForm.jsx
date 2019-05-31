@@ -5,7 +5,7 @@ import { FiArrowRight } from 'react-icons/fi';
 class NewTicketForm extends Component {
     render() {
         return (
-            <form className="my-4">
+            <form>
                 <div className="form-group">
                     <label className="text-muted">Support Category</label>
                     <input type="text" className="form-control bg-light" id="support-category" />
