@@ -10,7 +10,7 @@ $brand-danger: #FF456B !default;
 $btn-border-radius-base: 0px;
 @import "~bootstrap/scss/bootstrap";
 
-.ticket__img{ height: 350px; z-index: -1; position: absolute; margin: -65px}
+.ticket__img{ height: 350px; z-index: -1; position: relative; margin: -65px}
 
 .btn {
   padding: 0.5rem 2rem!important;
