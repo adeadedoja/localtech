@@ -9,8 +9,6 @@ import {
     NavLink
 } from 'reactstrap';
 
-import { FiUser, FiPlus, FiUserPlus } from 'react-icons/fi';
-
 
 class Header extends Component {
     constructor(props) {
@@ -35,16 +33,13 @@ class Header extends Component {
                     <Collapse isOpen={this.state.isOpen} navbar>
                         <Nav className="ml-auto" navbar>
                             <NavItem>
-                                <NavLink className="mr-3" href="/home/">Home</NavLink>
+                                <NavLink className="mr-3 text-primary" href="/">Support</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink className="mr-3 text-primary" href="/"><FiPlus/> Submit a ticket</NavLink>
+                                <NavLink className="mr-3 text-primary" href="/">Log in</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink className="btn btn-outline-primary mr-3 text-primary" href="/"><FiUser/> Log in</NavLink>
-                            </NavItem>
-                            <NavItem>
-                                <NavLink className="btn btn-primary text-white" href="/"><FiUserPlus/> Sign up</NavLink>
+                                <NavLink className="btn btn-primary text-white" href="/">Create account</NavLink>
                             </NavItem>
                         </Nav>
                     </Collapse>
