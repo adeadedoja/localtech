@@ -14,7 +14,7 @@ class HomeHero extends Component {
                             <div>
                                 <h1>Get technical support right now</h1>
                                 <p className="py-3">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                    We want to add a brand new text here also, Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
                                 </p>
                                 <Button color="danger" className="btn btn-danger rounded-0 mr-4">Get Started</Button>
