@@ -12,7 +12,7 @@ class HomeHero extends Component {
                     <div className="row align-self-center w-100">
                         <div className="col-md-5 hero__info">
                             <div>
-                                <h1>Get a technician right now</h1>
+                                <h1>Get technical support right now</h1>
                                 <p className="py-3">
                                     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
