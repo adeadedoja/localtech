@@ -2,7 +2,7 @@
 $text-color: #06203A !default;
 $danger: #FF456B !default;
 $primary: #06203A;
-$font-size-base: 1rem !default;
+$font-size-base: 0.85rem !default;
 $font-family-sans-serif:  "Jost", Helvetica, Arial, sans-serif !default;
 $font-family-base: $font-family-sans-serif !default;
 $text-color: #06203A !default;
@@ -24,4 +24,8 @@ $btn-border-radius-base: 0px;
   max-width:70%;
   border-bottom: 3px solid $primary;
   margin: 1em auto 0;
+}
+
+.border-radius-white-2 {
+  border: #fff solid 3px;
 }

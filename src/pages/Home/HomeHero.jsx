@@ -3,6 +3,7 @@ import {Button} from "reactstrap";
 import landingImage from "../../assets/images/server.svg";
 import {FaFacebookF, FaTwitter, FaWhatsapp} from "react-icons/fa";
 import {FiChevronRight} from "react-icons/fi";
+import OnboardingModal from "../../components/Home/OnboardingModal";
 
 class HomeHero extends Component {
     render() {
@@ -14,10 +15,9 @@ class HomeHero extends Component {
                             <div>
                                 <h1>Get technical support right now</h1>
                                 <p className="py-3">
-                                    We want to add a brand new text here also, Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                                    LocalTech LLC, offers comprehensive enterprise level IT support services to clients across all sectors. With an extensive engineer network and years of support experience, we are uniquely positioned to support and streamline your current IT infrastructure for optimal performance and security.
                                 </p>
-                                <Button color="danger" className="btn btn-danger rounded-0 mr-4">Get Started</Button>
+                                <OnboardingModal buttonLabel="Get Started" className="chill"/>
                                 <a><b><span className="text-danger"><FiChevronRight/></span> Explore the platform</b></a>
                             </div>
                             <div className="py-5">
