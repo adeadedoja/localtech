@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Button} from "reactstrap";
-import landingImage from "../../assets/images/server.svg";
+import landingImage from "../../assets/images/h.png";
 import {FaFacebookF, FaTwitter, FaWhatsapp} from "react-icons/fa";
 import {FiChevronRight} from "react-icons/fi";
 import OnboardingModal from "../../components/Home/OnboardingModal";
@@ -11,7 +11,7 @@ class HomeHero extends Component {
             <div className="hero">
                 <div className="container d-flex h-100">
                     <div className="row align-self-center w-100">
-                        <div className="col-md-5 hero__info">
+                        <div className="col-md-7 hero__info">
                             <div>
                                 <h1>Get technical support right now</h1>
                                 <p className="py-3">
@@ -28,9 +28,10 @@ class HomeHero extends Component {
                                 </h2>
                             </div>
                         </div>
-                        <div className="col-md-7 hero__image">
-                            <img src={landingImage} alt="landing" className="img-fluid" />
+                        <div className="col-md-5 hero__image">
                         </div>
+
+                        <img src={landingImage} alt="landing" style={{width: '550px', height: 'auto', position: 'absolute', right: '0', top: '50px'}} />
                     </div>
                 </div>
 
