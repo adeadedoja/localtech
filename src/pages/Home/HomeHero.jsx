@@ -13,7 +13,7 @@ class HomeHero extends Component {
                     <div className="row align-self-center w-100">
                         <div className="col-md-7 hero__info">
                             <div>
-                                <h1>Get technical support right now</h1>
+                                <h1 className="text-primary">Get technical support right now</h1>
                                 <p className="py-3">
                                     LocalTech LLC, offers comprehensive enterprise level IT support services to clients across all sectors. With an extensive engineer network and years of support experience, we are uniquely positioned to support and streamline your current IT infrastructure for optimal performance and security.
                                 </p>
@@ -31,7 +31,7 @@ class HomeHero extends Component {
                         <div className="col-md-5 hero__image">
                         </div>
 
-                        <img src={landingImage} alt="landing" style={{width: '550px', height: 'auto', position: 'absolute', right: '0', top: '50px'}} />
+                        <img src={landingImage} alt="landing" style={{width: '500px', height: 'auto', position: 'absolute', right: '0', top: '80px'}} />
                     </div>
                 </div>
 
