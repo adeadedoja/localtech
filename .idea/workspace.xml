@@ -2,11 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a01b601-0233-42c2-bcef-9592e362cd11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/lo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/phone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/bg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/images/h.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/h.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/server.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/server.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ticket.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/ticket.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/OnboardingModal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/OnboardingModal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Ticket/NewTicket.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ticket/NewTicket.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Ticket/NewTicketForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Ticket/NewTicketForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/HomeDashboardTool.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/HomeDashboardTool.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home/HomeHero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/HomeHero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/HomeTestimonial.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/HomeTestimonial.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home/HomeWhyUse.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/HomeWhyUse.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,14 +43,14 @@
           <entry key="js" value="166" />
           <entry key="jsx" value="3616" />
           <entry key="scss" value="216" />
-          <entry key="txt" value="206" />
+          <entry key="txt" value="220" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSX Harmony" value="3616" />
           <entry key="JavaScript" value="166" />
-          <entry key="PLAIN_TEXT" value="206" />
+          <entry key="PLAIN_TEXT" value="220" />
           <entry key="SCSS" value="216" />
         </counts>
       </usages-collector>
@@ -42,7 +64,7 @@
           <entry key="jsx" value="19" />
           <entry key="lock" value="3" />
           <entry key="png" value="1" />
-          <entry key="scss" value="6" />
+          <entry key="scss" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -52,7 +74,7 @@
           <entry key="JSON" value="7" />
           <entry key="JSX Harmony" value="19" />
           <entry key="JavaScript" value="10" />
-          <entry key="SCSS" value="6" />
+          <entry key="SCSS" value="7" />
           <entry key="TypeScript JSX" value="2" />
           <entry key="yarn.lock" value="3" />
         </counts>
@@ -64,16 +86,18 @@
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="4" />
+          <entry key="ESLintLanguageService" value="5" />
           <entry key="TypeScriptServerServiceImpl" value="1" />
         </counts>
       </usages-collector>
@@ -82,18 +106,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Home/index.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="51" selection-start-column="51" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeHero.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="420">
               <caret line="33" column="143" selection-start-line="33" selection-start-column="143" selection-end-line="33" selection-end-column="143" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -102,7 +117,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeWhyUse.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -112,10 +127,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Home/OnboardingModal.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state relative-caret-position="315">
+              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -132,7 +156,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -215,7 +239,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
@@ -226,7 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,6 +292,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,7 +358,11 @@
       <workItem from="1577091229791" duration="328000" />
       <workItem from="1577093807533" duration="7457000" />
       <workItem from="1577128973868" duration="1554000" />
-      <workItem from="1577532936394" duration="1038000" />
+      <workItem from="1577532936394" duration="1345000" />
+      <workItem from="1578151669009" duration="750000" />
+      <workItem from="1578580139342" duration="922000" />
+      <workItem from="1580265214634" duration="404000" />
+      <workItem from="1580288134439" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="master - initial commit">
       <created>1558727924941</created>
@@ -413,23 +441,30 @@
       <option name="project" value="LOCAL" />
       <updated>1577103696496</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="master - edited &quot;why you use&quot;">
+      <created>1577538063085</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1577538063085</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22955000" />
+    <option name="totallyTimeSpent" value="25668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983108" visible="true" weight="0.27110156" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983108" visible="true" weight="0.28540772" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.5016892" side_tool="true" visible="true" weight="0.24964234" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.28592375" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.2850062" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -497,7 +532,8 @@
     <MESSAGE value="master - Get started modal now sending message" />
     <MESSAGE value="master - CHanged header" />
     <MESSAGE value="master - edited css" />
-    <option name="LAST_COMMIT_MESSAGE" value="master - edited css" />
+    <MESSAGE value="master - edited &quot;why you use&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="master - edited &quot;why you use&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.test.js">
@@ -563,13 +599,6 @@
     <entry file="file://$PROJECT_DIR$/src/assets/images/h.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Home/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -577,10 +606,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeHero.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="143" selection-start-line="33" selection-start-column="143" selection-end-line="33" selection-end-column="143" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeWhyUse.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/OnboardingModal.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state relative-caret-position="315">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
@@ -610,25 +656,15 @@
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeHero.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="33" column="143" selection-start-line="33" selection-start-column="143" selection-end-line="33" selection-end-column="143" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeWhyUse.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>

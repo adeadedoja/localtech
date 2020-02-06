@@ -15,7 +15,7 @@ class Home extends Component {
 
                 <HomeTestimonial/>
 
-                <HomeDashboardTool/>
+                {/*<HomeDashboardTool/>*/}
             </Fragment>
         );
     }

@@ -28,7 +28,23 @@ body {
   border-bottom: 3px solid $primary;
   margin: 1em auto 0;
 }
+.small-border-bottom-left.small-border-bottom:after {
+  content:"";
+  display:block;
+  width: 2em;
+  max-width:70%;
+  border-bottom: 3px solid $primary;
+  margin: 0.2em 0;
+}
 
 .border-radius-white-2 {
   border: #fff solid 3px;
 }
+
+.h {
+  &-400px {
+    height: 400px;
+  }
+}
+
+.ma    { flex: 1; }
