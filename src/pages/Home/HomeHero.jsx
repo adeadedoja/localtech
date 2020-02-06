@@ -31,7 +31,7 @@ class HomeHero extends Component {
                         <div className="col-md-5 hero__image">
                         </div>
 
-                        <img src={landingImage} alt="landing" style={{width: '500px', height: 'auto', position: 'absolute', right: '0', top: '80px'}} />
+                        <img src={landingImage} alt="landing" className="landing-image" />
                     </div>
                 </div>
 

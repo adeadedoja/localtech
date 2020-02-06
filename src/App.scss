@@ -43,7 +43,7 @@ body {
 
 .h {
   &-400px {
-    height: 400px;
+    min-height: 400px;
   }
 }
 

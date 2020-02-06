@@ -1,5 +1,4 @@
 .hero {
-  height: 80vh;
 
   &__info {
     margin-top: 20px;
@@ -21,5 +20,16 @@
     @media only screen and (max-width: 768px) {
       display: none;
     }
+  }
+}
+
+.landing-image {
+  width: 500px;
+  height: auto;
+  position: absolute;
+  right: 0;
+  top: 80px;
+  @media only screen and (max-width: 768px) {
+    display: none;
   }
 }
