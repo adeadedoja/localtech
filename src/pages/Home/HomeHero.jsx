@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import {Button} from "reactstrap";
 import landingImage from "../../assets/images/h.png";
 import {FaFacebookF, FaTwitter, FaWhatsapp} from "react-icons/fa";
 import {FiChevronRight} from "react-icons/fi";

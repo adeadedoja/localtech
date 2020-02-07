@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import phone from '../../assets/images/phone.png';
 import {Button, Col, Form, FormGroup, Input} from "reactstrap";
-import {submit} from "../../services/contact";
 import {FaCloudDownloadAlt} from "react-icons/fa";
+import {submit} from "../../services/contact";
 
 class Contact extends Component {
     render() {
@@ -39,7 +39,7 @@ class Contact extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 col-12">
+                        <div className="col-md-6 col-12ser">
                             <img src={phone} className="" />
                         </div>
                     </div>

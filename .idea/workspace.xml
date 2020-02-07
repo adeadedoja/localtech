@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a01b601-0233-42c2-bcef-9592e362cd11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/About/About.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/Contact.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact/Contact.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home/HomeHero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/HomeHero.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/HomeWhyUse.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/HomeWhyUse.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,14 +17,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="166" />
-          <entry key="jsx" value="3705" />
+          <entry key="jsx" value="3711" />
           <entry key="scss" value="255" />
           <entry key="txt" value="234" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSX Harmony" value="3705" />
+          <entry key="JSX Harmony" value="3711" />
           <entry key="JavaScript" value="166" />
           <entry key="PLAIN_TEXT" value="234" />
           <entry key="SCSS" value="255" />
@@ -85,14 +81,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeHero.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="33" column="82" selection-start-line="33" selection-start-column="82" selection-end-line="33" selection-end-column="82" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="39" selection-start-column="39" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -155,11 +148,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Contact/Contact.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+            <state relative-caret-position="270">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -178,9 +171,11 @@
     <findStrings>
       <find>212</find>
       <find>212529</find>
+      <find>services/con</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -206,11 +201,11 @@
         <option value="$PROJECT_DIR$/src/components/Header.jsx" />
         <option value="$PROJECT_DIR$/src/components/Home/OnboardingModal.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Home/HomeWhyUse.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Home/HomeHero.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Home/Home.scss" />
         <option value="$PROJECT_DIR$/src/App.scss" />
         <option value="$PROJECT_DIR$/src/components/About/About.jsx" />
         <option value="$PROJECT_DIR$/src/components/Contact/Contact.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Home/HomeHero.jsx" />
       </list>
     </option>
   </component>
@@ -246,71 +241,6 @@
               <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
               <item name="localtech" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="About" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Contact" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Ticket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="localtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="localtech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Home" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -319,7 +249,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value=".idea&#9;FILE&#9;file:///Users/adedojaadedamola/PhpstormProjects/localtech/.idea" />
+    <property name="SearchEverywhereHistoryKey" value="HomeH&#9;FILE&#9;file:///Users/adedojaadedamola/PhpstormProjects/localtech/src/pages/Home/HomeHero.jsx&#10;Contac&#9;null&#9;null&#10;.idea&#9;FILE&#9;file:///Users/adedojaadedamola/PhpstormProjects/localtech/.idea" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -385,7 +315,7 @@
       <workItem from="1578151669009" duration="750000" />
       <workItem from="1578580139342" duration="922000" />
       <workItem from="1580265214634" duration="404000" />
-      <workItem from="1580288134439" duration="1480000" />
+      <workItem from="1580288134439" duration="1722000" />
     </task>
     <task id="LOCAL-00001" summary="master - initial commit">
       <created>1558727924941</created>
@@ -478,11 +408,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581016076726</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="master - big ass update">
+      <created>1581017300643</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581017300643</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26818000" />
+    <option name="totallyTimeSpent" value="27060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -551,6 +488,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="master - initial commit" />
     <MESSAGE value="master - setup with react router" />
     <MESSAGE value="master - quick fix on header" />
@@ -657,16 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeHero.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="33" column="82" selection-start-line="33" selection-start-column="82" selection-end-line="33" selection-end-column="82" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yarn.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -706,11 +634,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Contact/Contact.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="41" column="55" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+        <state relative-caret-position="270">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/HomeHero.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>
